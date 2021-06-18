@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\madel\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\madel\\.nuget\\packages"
+    ]
+  }
+}

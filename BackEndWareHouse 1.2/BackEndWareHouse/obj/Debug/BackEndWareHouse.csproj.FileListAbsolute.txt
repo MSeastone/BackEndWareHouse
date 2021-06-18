@@ -1,0 +1,18 @@
+C:\Users\madel\source\repos\BackEndWareHouse\BackEndWareHouse\bin\Debug\BackEndWareHouse.dll
+C:\Users\madel\source\repos\BackEndWareHouse\BackEndWareHouse\bin\Debug\BackEndWareHouse.pdb
+C:\Users\madel\source\repos\BackEndWareHouse\BackEndWareHouse\obj\Debug\BackEndWareHouse.csprojAssemblyReference.cache
+C:\Users\madel\source\repos\BackEndWareHouse\BackEndWareHouse\obj\Debug\BackEndWareHouse.csproj.CoreCompileInputs.cache
+C:\Users\madel\source\repos\BackEndWareHouse\BackEndWareHouse\obj\Debug\BackEndWareHouse.dll
+C:\Users\madel\source\repos\BackEndWareHouse\BackEndWareHouse\obj\Debug\BackEndWareHouse.pdb
+C:\Users\madel\source\repos\BackEndWareHouse 1.1\BackEndWareHouse\obj\Debug\BackEndWareHouse.csprojAssemblyReference.cache
+C:\Users\madel\source\repos\BackEndWareHouse 1.1\BackEndWareHouse\obj\Debug\BackEndWareHouse.csproj.CoreCompileInputs.cache
+C:\Users\madel\source\repos\BackEndWareHouse 1.1\BackEndWareHouse\obj\Debug\BackEndWareHouse.dll
+C:\Users\madel\source\repos\BackEndWareHouse 1.1\BackEndWareHouse\obj\Debug\BackEndWareHouse.pdb
+C:\Users\madel\source\repos\BackEndWareHouse 1.1\BackEndWareHouse\bin\Debug\BackEndWareHouse.dll
+C:\Users\madel\source\repos\BackEndWareHouse 1.1\BackEndWareHouse\bin\Debug\BackEndWareHouse.pdb
+C:\Users\madel\source\repos\BackEndWareHouse 1.2\BackEndWareHouse\bin\Debug\BackEndWareHouse.dll
+C:\Users\madel\source\repos\BackEndWareHouse 1.2\BackEndWareHouse\bin\Debug\BackEndWareHouse.pdb
+C:\Users\madel\source\repos\BackEndWareHouse 1.2\BackEndWareHouse\obj\Debug\BackEndWareHouse.csprojAssemblyReference.cache
+C:\Users\madel\source\repos\BackEndWareHouse 1.2\BackEndWareHouse\obj\Debug\BackEndWareHouse.csproj.CoreCompileInputs.cache
+C:\Users\madel\source\repos\BackEndWareHouse 1.2\BackEndWareHouse\obj\Debug\BackEndWareHouse.dll
+C:\Users\madel\source\repos\BackEndWareHouse 1.2\BackEndWareHouse\obj\Debug\BackEndWareHouse.pdb

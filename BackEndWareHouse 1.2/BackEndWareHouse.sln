@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackEndWareHouse", "BackEndWareHouse\BackEndWareHouse.csproj", "{F2BF03A7-5B48-408E-980D-EFA1F11C851E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrontEndWareHouse", "FrontEndWareHouse\FrontEndWareHouse.csproj", "{E857691D-39A4-47A4-9B66-1884D6A72E0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2BF03A7-5B48-408E-980D-EFA1F11C851E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2BF03A7-5B48-408E-980D-EFA1F11C851E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2BF03A7-5B48-408E-980D-EFA1F11C851E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2BF03A7-5B48-408E-980D-EFA1F11C851E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E857691D-39A4-47A4-9B66-1884D6A72E0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E857691D-39A4-47A4-9B66-1884D6A72E0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E857691D-39A4-47A4-9B66-1884D6A72E0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E857691D-39A4-47A4-9B66-1884D6A72E0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {073E04FC-223E-465F-B031-ED0A560EE697}
+	EndGlobalSection
+EndGlobal
