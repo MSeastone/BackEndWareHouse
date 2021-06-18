@@ -1,5 +1,5 @@
 # BackEndWareHouse
-**************************************************************************
+
 
 
 This assignment is based on Object-Oriented Programming.
@@ -11,5 +11,3 @@ Focus is on backend functionality and I learnt so much during this assignment!
 
 Have a nice day! // Madelene :)
 
-
-**************************************************************************
